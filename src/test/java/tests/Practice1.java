@@ -39,6 +39,8 @@ public class Practice1 {
 		
 		String title = driver.getTitle();
 		
+		System.out.println("The title is "+title);
+		
 		
 		
 
